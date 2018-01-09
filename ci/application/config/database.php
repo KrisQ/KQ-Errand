@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'shareddb-f.hosting.stackcp.net',
-	'username' => 'errand1',
-	'password' => 'jeCkY7j-V',
-	'database' => 'errand-32364e16',
+	'hostname' => '',
+	'username' => '',
+	'password' => '',
+	'database' => '',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
